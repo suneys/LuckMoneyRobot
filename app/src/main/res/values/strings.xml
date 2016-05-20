@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">红包机器人</string>
+    <string name="accessibility_service_description">打开就可以实现自动抢红包服务</string>
+</resources>
